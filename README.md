@@ -13,15 +13,21 @@ Corporate Social Responsibility (CSR) has become an increasingly important aspec
 ### Problem statement:
 This project aims to reduce the manual labour that is required to organise and administer the CSR initiatives across multiple locations.
 
-Used Tech Stack
-1. Django
-2. Sqlite
-3. HTML
-4. CSS
-5. PHP
-6. Javascript
-7. Node.js
-8. Python
+### Tech Stack:
+
+#### Frontend:
+- HTML
+- CSS
+- JavaScript
+
+#### Backend:
+- Django
+- SQLite
+- PHP
+- Node. js
+- Python
+
+### Getting Started:
 
 #### Install
 
@@ -69,7 +75,7 @@ Used Tech Stack
     `python manage.py runserver`
     
     
- #### Results--
+ ### Results:
 
     
 Home page:
